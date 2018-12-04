@@ -1,2 +1,2 @@
-Get is version control system.
+Get is distributed version control system.
 Git is free software.
